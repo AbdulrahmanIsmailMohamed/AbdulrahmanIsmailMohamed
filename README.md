@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdulrahman Ismail Mohamed
 - 👀 I’m interested in ...
--  Software engineering and mobile application programming using flutter
+-  Software engineering and web application programming 
 - 🌱 I’m currently learning ...
-- Flutter
+- Node JS
 - 📫 How to reach me ...
 - https://wsend.co/201553890802
 - abdulrahman.ismail.mohammed@gmail.com
