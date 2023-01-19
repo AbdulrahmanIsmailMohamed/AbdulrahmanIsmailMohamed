@@ -2,7 +2,7 @@
 - 👀 I’m interested in...
 -  Software engineering and backend developer 
 - 🌱 I’m currently learning ...
-- Node JS.
+- Node JS
 <hr> 
 
 <h2> Contact with me on </h2>  
