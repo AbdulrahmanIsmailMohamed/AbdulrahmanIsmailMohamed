@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanismailmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanismailmohamed" /> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **MYSQL**
 
 - 📫 How to reach me **abdulrahman.ismail.mohammed@gmail.com**
 
