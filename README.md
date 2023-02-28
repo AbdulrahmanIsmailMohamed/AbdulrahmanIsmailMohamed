@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanismailmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanismailmohamed" /> </p>
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **abdulrahman.ismail.mohammed@gmail.com**
 
@@ -38,7 +38,7 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,androidstudio,bootstrap,git,github,idea,ktor,linux,mongodb,mysql,nodejs,pug,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,androidstudio,bootstrap,git,github,idea,ktor,linux,mongodb,mysql,nodejs,ts,pug,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
