@@ -43,6 +43,16 @@
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
+<!-- <div align="center">
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanismailmohamed&layout=compact&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanismailmohamed&hide_border=true&theme=onedark">
+ <a href="https://github.com/abdulrahmanismailmohamed">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismailmohamed&show_icons=true&theme=onedark&line_height=27" alt="Abdulrahman Ismailgithub stats"/>
+</a>
+</div> -->
+
+<h3 align="left">Languages and Tools:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismailmohamed&show_icons=true&locale=en&layout=compact" alt="abdulrahmanismailmohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismailmohamed&show_icons=true&locale=en" alt="abdulrahmanismailmohamed" /></p>
