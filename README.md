@@ -37,7 +37,7 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,typescript,nestjs,androidstudio,bootstrap,git,github,idea,ktor,linux,mongodb,mysql,expressjs,nodejs,ts,pug,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,py,typescript,nestjs,androidstudio,bootstrap,git,github,idea,ktor,linux,mongodb,mysql,expressjs,nodejs,pug,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
 <br/>
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
