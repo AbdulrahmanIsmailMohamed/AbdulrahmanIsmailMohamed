@@ -12,7 +12,13 @@
 <p><a href="http://Wa.me/201553890802" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100010739979803" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdulrahman-ismail-ab6a84209/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
  -->
  <h1 align="center">Hi 👋, I'm Abdulrahman Ismail</h1>
-<h3 align="center">Backend Developer || GIS Developer</h3>
+<h3 align="center">Backend Developer || GIS </h3>
+<p>Hi Devs <br>
+My name is Abdulrahman, I am 21 years old, and I am in the Faculty of Arts, Zagazig University, Department of Surveying, Maps and Geographic Information Systems, and I am learning programming by myself without a mentor
+I'm into programming. Two years ago, I started with the C++ programming language and learned the basics of programming
+I am currently learning the field of Backend by nodejs and I have done a lot of projects with it such as E-Commerce and you can see more about my GitHub <br>
+And I want to be Full Stack with React.js and I'm looking forward to learning more and more because I love programming <br>
+nice to see you<p>
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 
