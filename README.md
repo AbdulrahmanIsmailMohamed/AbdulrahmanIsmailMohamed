@@ -14,10 +14,15 @@
  <h1 align="center">Hi 👋, I'm Abdulrahman Ismail</h1>
 <h3 align="center">Backend Developer || GIS Specialist</h3>
 <p>Hi Devs <br>
-My name is Abdulrahman, I am 21 years old, and I am in the Faculty of Arts, Zagazig University, Department of Surveying, Maps and Geographic Information Systems, and I am learning programming by myself without a mentor
-I'm into programming. Two years ago, I started with the C++ programming language and learned the basics of programming
-I am currently learning the field of Backend by nodejs and I have done a lot of projects with it such as E-Commerce and you can see more about my GitHub <br>
-And I want to be Full Stack with React.js and I'm looking forward to learning more and more because I love programming <br>
+My name is Abdulrahman, a 21-year-old self-taught programmer passionate about backend development. I started my programming journey two years ago by learning the basics of C++, and since then, I have expanded my skills to include other languages and frameworks.
+
+As a highly motivated backend Node.js developer, I thrive on creating efficient and scalable web applications. I have expertise in building robust APIs and implementing server-side logic using Node.js, Express, and MongoDB. Additionally, I am experienced in TypeScript development and proficient in version control using Git.
+
+Currently, I am pursuing a degree in Survey, Maps, and Geographic Information Systems at Zagazig University. My educational background complements my programming interests as it enables me to apply my skills in mapping and analysis using tools like ArcGIS, Global Mapper, and Google Earth. I am excited about exploring the intersection of geospatial data and programming.
+
+Alongside my technical skills, I possess a solid foundation in data structures, algorithms, and problem-solving. This allows me to design and implement efficient and optimized solutions. I am continuously working on personal projects to further enhance my programming abilities and keep up with the latest industry trends.
+
+I am eager to contribute to real-world projects, collaborate with other developers, and continue learning and growing as a backend Node.js developer. <br>
 nice to see you<p>
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
