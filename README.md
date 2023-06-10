@@ -29,7 +29,7 @@ nice to see you<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanismailmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanismailmohamed" /> </p>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **NestJs** 
 
 - 📫 How to reach me **abdulrahman.ismail.mohammed@gmail.com**
 
