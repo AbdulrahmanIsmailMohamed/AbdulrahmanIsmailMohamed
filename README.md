@@ -1,10 +1,10 @@
 <!-- Add "Stand with Palestine" message and flag -->
-<div align="center">
+<!-- <div align="center">
     <h2>🤍 Stand with Palestine 🇵🇸</h2>
     <p>Support peace, justice, and human rights for Palestine  🇵🇸.</p>
 </div>
  
---- 
+---  -->
 
 <!-- Your existing content below this line -->
 
